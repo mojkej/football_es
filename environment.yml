@@ -5,3 +5,4 @@ dependencies:
 - pyspark
 - findspark
 - dotenv
+- pandas
