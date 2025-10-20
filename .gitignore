@@ -181,3 +181,5 @@ cython_debug/
 .cursorindexingignore
 test.ipynb
 log_file.txt
+_SUCCESS
+*.crc
